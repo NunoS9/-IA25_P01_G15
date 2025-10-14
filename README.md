@@ -58,5 +58,5 @@ Para executar o projeto localmente:
 
 1. **Clonar o repositório:**
    ```bash
-   git clone <link-do-repositorio>
+   git clone https://github.com/NunoS9/-IA25_P01_G15.git
    cd <nome-da-pasta>
