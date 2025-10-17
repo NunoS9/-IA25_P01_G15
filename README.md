@@ -1,11 +1,11 @@
 # 🧠 IA25 – Projeto 01  
-## Geração Automática de Horários Académicos com CSP
+## Criação Automática de Horários Académicos com CSP
 
 ### 📘 Descrição do Projeto
 Este projeto foi desenvolvido no âmbito da unidade curricular **Inteligência Artificial**,  
 do **Instituto Politécnico do Cávado e do Ave (IPCA)**.  
 
-O principal objetivo consiste em desenvolver um **agente inteligente** capaz de **gerar e gerir horários de aulas de forma automática**,  
+O principal objetivo consiste em desenvolver um **agente inteligente** capaz de **criar e gerir horários de aulas de forma automática**,  
 com base na abordagem de **Problema de Satisfação de Restrições (CSP)**.  
 Para tal, é utilizada a linguagem **Python** e a biblioteca **`python-constraint`**, que permite modelar as variáveis,  
 os domínios e as restrições associadas ao problema de horários académicos.
