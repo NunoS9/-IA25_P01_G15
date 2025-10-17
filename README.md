@@ -18,7 +18,7 @@ de forma a demonstrar todo o raciocínio, a formulação do problema e a execuç
 ### 🧰 Tecnologias Utilizadas
 - **Python 3.x** – Linguagem de programação principal.  
 - **Jupyter Notebook** – Ambiente de desenvolvimento interativo.  
-- **Biblioteca [`python-constraint`].
+- **Biblioteca** [`python-constraint`].
 - **Git & GitHub** – Controlo de versões e colaboração entre membros do grupo.  
 - **CMD (Linha de Comandos)** – Execução e gestão local do projeto.
 
