@@ -48,7 +48,7 @@ de forma a demonstrar todo o raciocínio, a formulação do problema e a execuç
 - Nuno Miguel Rodrigues da Silva (a25417)  
 - Hugo Francisco Pereira Azevedo (a25431)  
 - Tiago André Alves Castro (a25434)  
-- Gonçalo Edi Pinto Homem de Figueiredo (a26747)  
+- Gonçalo Édi Pinto Homem de Figueiredo (a26747)  
 - João Miguel Santos Silva Campos Cunha (a23519)
 
 ---
